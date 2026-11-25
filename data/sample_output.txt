@@ -1,0 +1,881 @@
+==============================================================================
+RENEWAL QUOTATIONS
+==============================================================================
+Contract K037 | Customer C07 | Oscilloscope 37
+  Command date        : 2025-10-26
+  New term            : 2026-01-30 to 2027-01-29   Coverage: BASIC
+  Base value          : 16,500.00
+  Escalated value     : 18,207.00
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 16,750.44
+  Amount before GST   : 16,750.44
+  GST 18%             : 3,015.08
+  FINAL PAYABLE       : Rs 19,766
+------------------------------------------------------------------------------
+Contract K020 | Customer C10 | Signal Generator 20
+  Command date        : 2025-11-06
+  New term            : 2026-02-13 to 2027-02-12   Coverage: BASIC
+  Base value          : 48,000.00
+  Escalated value     : 53,412.45
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 49,139.45
+  Amount before GST   : 49,139.45
+  GST 18%             : 8,845.10
+  FINAL PAYABLE       : Rs 57,985
+------------------------------------------------------------------------------
+Contract K018 | Customer C08 | Oscilloscope 18
+  Command date        : 2025-12-17
+  New term            : 2026-01-01 to 2026-12-31   Coverage: PREMIUM
+  Base value          : 140,000.00  (incl. 25% age surcharge)
+  Escalated value     : 140,000.00
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 140,000.00
+  Amount before GST   : 140,000.00
+  GST 18%             : 25,200.00
+  FINAL PAYABLE       : Rs 165,200
+------------------------------------------------------------------------------
+Contract K026 | Customer C06 | Oscilloscope 26
+  Command date        : 2025-12-19
+  New term            : 2026-01-31 to 2027-01-30   Coverage: PREMIUM
+  Base value          : 84,000.00
+  Escalated value     : 86,208.15
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 81,897.74
+  Amount before GST   : 81,897.74
+  GST 18%             : 14,741.59
+  FINAL PAYABLE       : Rs 96,639
+------------------------------------------------------------------------------
+Contract K057 | Customer C07 | Multimeter 57
+  Command date        : 2025-12-21
+  New term            : 2026-04-01 to 2027-03-31   Coverage: BASIC
+  Base value          : 43,500.00
+  Escalated value     : 44,429.70
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 40,875.32
+  Amount before GST   : 40,875.32
+  GST 18%             : 7,357.56
+  FINAL PAYABLE       : Rs 48,233
+------------------------------------------------------------------------------
+Contract K038 | Customer C08 | Signal Generator 38
+  Command date        : 2025-12-26
+  New term            : 2026-01-26 to 2027-01-25   Coverage: BASIC
+  Base value          : 18,000.00
+  Escalated value     : 19,324.20
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 18,357.99
+  Amount before GST   : 18,357.99
+  GST 18%             : 3,304.44
+  FINAL PAYABLE       : Rs 21,662
+------------------------------------------------------------------------------
+Contract K029 | Customer C09 | Soldering Station 29
+  Command date        : 2025-12-28
+  New term            : 2026-02-19 to 2027-02-18   Coverage: BASIC
+  Base value          : 12,000.00
+  Escalated value     : 12,819.45
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 12,178.48
+  Amount before GST   : 12,178.48
+  GST 18%             : 2,192.13
+  FINAL PAYABLE       : Rs 14,371
+------------------------------------------------------------------------------
+Contract K052 | Customer C02 | Function Generator 52
+  Command date        : 2026-01-10
+  New term            : 2026-03-08 to 2027-03-07   Coverage: COMPREHENSIVE
+  Base value          : 6,250.00  (incl. 25% age surcharge)
+  Escalated value     : 6,250.00
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 5,937.50
+  Amount before GST   : 5,937.50
+  GST 18%             : 1,068.75
+  FINAL PAYABLE       : Rs 7,006
+------------------------------------------------------------------------------
+Contract K030 | Customer C10 | Spectrum Analyser 30
+  Command date        : 2026-01-20
+  New term            : 2026-01-28 to 2027-01-27   Coverage: PREMIUM
+  Base value          : 70,000.00  (incl. 25% age surcharge)
+  Escalated value     : 70,000.00
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 70,000.00
+  Amount before GST   : 70,000.00
+  GST 18%             : 12,600.00
+  FINAL PAYABLE       : Rs 82,600
+------------------------------------------------------------------------------
+Contract K017 | Customer C07 | Function Generator 17
+  Command date        : 2026-02-01
+  New term            : 2026-04-12 to 2027-04-11   Coverage: PREMIUM
+  Base value          : 63,000.00
+  Escalated value     : 66,886.05
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 61,535.17
+  Amount before GST   : 61,535.17
+  GST 18%             : 11,076.33
+  FINAL PAYABLE       : Rs 72,611
+------------------------------------------------------------------------------
+Contract K032 | Customer C02 | Network Analyser 32
+  Command date        : 2026-02-09
+  New term            : 2026-03-13 to 2027-03-12   Coverage: COMPREHENSIVE
+  Base value          : 47,500.00
+  Escalated value     : 49,385.70
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 46,916.42
+  Amount before GST   : 46,916.42
+  GST 18%             : 8,444.95
+  FINAL PAYABLE       : Rs 55,361
+------------------------------------------------------------------------------
+Contract K051 | Customer C01 | Logic Analyser 51
+  Command date        : 2026-02-11
+  New term            : 2026-02-17 to 2027-02-16   Coverage: BASIC
+  Base value          : 15,000.00
+  Escalated value     : 16,011.45
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 16,011.45
+  Amount before GST   : 16,011.45
+  GST 18%             : 2,882.06
+  FINAL PAYABLE       : Rs 18,894
+------------------------------------------------------------------------------
+Contract K050 | Customer C10 | Signal Generator 50
+  Command date        : 2026-02-11
+  New term            : 2026-04-15 to 2027-04-14   Coverage: PREMIUM
+  Base value          : 105,000.00  (incl. 25% age surcharge)
+  Escalated value     : 105,000.00
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 96,600.00
+  Amount before GST   : 96,600.00
+  GST 18%             : 17,388.00
+  FINAL PAYABLE       : Rs 113,988
+------------------------------------------------------------------------------
+Contract K009 | Customer C09 | Environmental Chamber 9
+  Command date        : 2026-03-13
+  New term            : 2026-05-07 to 2027-05-06   Coverage: BASIC
+  Base value          : 15,000.00
+  Escalated value     : 16,210.95
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 15,400.40
+  Amount before GST   : 15,400.40
+  GST 18%             : 2,772.07
+  FINAL PAYABLE       : Rs 18,172
+------------------------------------------------------------------------------
+Contract K043 | Customer C03 | Function Generator 43
+  Command date        : 2026-03-16
+  New term            : 2026-06-10 to 2027-06-09   Coverage: PREMIUM
+  Base value          : 80,500.00
+  Escalated value     : 84,458.85
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 77,702.14
+  Amount before GST   : 77,702.14
+  GST 18%             : 13,986.39
+  FINAL PAYABLE       : Rs 91,689
+------------------------------------------------------------------------------
+Contract K034 | Customer C04 | Power Supply 34
+  Command date        : 2026-03-23
+  New term            : 2026-03-27 to 2027-03-26   Coverage: BASIC
+  Base value          : 46,500.00
+  Escalated value     : 116,593.05
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 116,593.05
+  Amount before GST   : 116,593.05
+  GST 18%             : 20,986.75
+  FINAL PAYABLE       : Rs 137,580
+------------------------------------------------------------------------------
+Contract K006 | Customer C06 | Oscilloscope 6
+  Command date        : 2026-03-24
+  New term            : 2026-04-23 to 2027-04-22   Coverage: PREMIUM
+  Base value          : 84,000.00
+  Escalated value     : 93,731.40
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 93,731.40
+  Amount before GST   : 93,731.40
+  GST 18%             : 16,871.65
+  FINAL PAYABLE       : Rs 110,603
+------------------------------------------------------------------------------
+Contract K060 | Customer C10 | Power Supply 60
+  Command date        : 2026-04-05
+  New term            : 2026-04-27 to 2027-04-26   Coverage: BASIC
+  Base value          : 19,500.00
+  Escalated value     : 46,465.65
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 46,465.65
+  Amount before GST   : 46,465.65
+  GST 18%             : 8,363.82
+  FINAL PAYABLE       : Rs 54,829
+------------------------------------------------------------------------------
+Contract K002 | Customer C02 | Power Supply 2
+  Command date        : 2026-04-14
+  New term            : 2026-04-27 to 2027-04-26   Coverage: PREMIUM
+  Base value          : 10,500.00
+  Escalated value     : 11,889.15
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 11,889.15
+  Amount before GST   : 11,889.15
+  GST 18%             : 2,140.05
+  FINAL PAYABLE       : Rs 14,029
+------------------------------------------------------------------------------
+Contract K007 | Customer C07 | Environmental Chamber 7
+  Command date        : 2026-04-24
+  New term            : 2026-07-25 to 2027-07-24   Coverage: COMPREHENSIVE
+  Base value          : 67,500.00
+  Escalated value     : 69,264.30
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 63,723.16
+  Amount before GST   : 63,723.16
+  GST 18%             : 11,470.17
+  FINAL PAYABLE       : Rs 75,193
+------------------------------------------------------------------------------
+Contract K048 | Customer C08 | Function Generator 48
+  Command date        : 2026-04-30
+  New term            : 2026-06-03 to 2027-06-02   Coverage: PREMIUM
+  Base value          : 100,625.00  (incl. 25% age surcharge)
+  Escalated value     : 100,625.00
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 95,593.75
+  Amount before GST   : 95,593.75
+  GST 18%             : 17,206.88
+  FINAL PAYABLE       : Rs 112,801
+------------------------------------------------------------------------------
+Contract K001 | Customer C01 | Spectrum Analyser 1
+  Command date        : 2026-05-04
+  New term            : 2026-07-01 to 2027-06-30   Coverage: PREMIUM
+  Base value          : 98,000.00
+  Escalated value     : 106,348.20
+  Early renewal disc. : 5%
+  Multi-equipment disc: 3%
+  Value after disc.   : 97,999.87
+  Amount before GST   : 97,999.87
+  GST 18%             : 17,639.98
+  FINAL PAYABLE       : Rs 115,640
+------------------------------------------------------------------------------
+Contract K011 | Customer C01 | Function Generator 11
+  Command date        : 2026-05-11
+  New term            : 2026-07-21 to 2027-07-20   Coverage: BASIC
+  Base value          : 25,500.00
+  Escalated value     : 26,422.20
+  Early renewal disc. : 8%
+  Multi-equipment disc: 3%
+  Value after disc.   : 23,579.17
+  Amount before GST   : 23,579.17
+  GST 18%             : 4,244.25
+  FINAL PAYABLE       : Rs 27,823
+------------------------------------------------------------------------------
+Contract K021 | Customer C01 | Function Generator 21
+  Command date        : 2026-05-19
+  New term            : 2026-08-10 to 2027-08-09   Coverage: BASIC
+  Base value          : 9,000.00
+  Escalated value     : 10,150.35
+  Early renewal disc. : 8%
+  Multi-equipment disc: 3%
+  Value after disc.   : 9,058.17
+  Amount before GST   : 9,058.17
+  GST 18%             : 1,630.47
+  FINAL PAYABLE       : Rs 10,689
+------------------------------------------------------------------------------
+Contract K010 | Customer C10 | Function Generator 10
+  Command date        : 2026-05-19
+  New term            : 2026-07-24 to 2027-07-23   Coverage: PREMIUM
+  Base value          : 105,000.00
+  Escalated value     : 109,602.15
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 100,833.98
+  Amount before GST   : 100,833.98
+  GST 18%             : 18,150.12
+  FINAL PAYABLE       : Rs 118,984
+------------------------------------------------------------------------------
+Contract K046 | Customer C06 | Multimeter 46
+  Command date        : 2026-05-22
+  New term            : 2026-06-28 to 2027-06-27   Coverage: BASIC
+  Base value          : 15,000.00
+  Escalated value     : 16,801.05
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 15,961.00
+  Amount before GST   : 15,961.00
+  GST 18%             : 2,872.98
+  FINAL PAYABLE       : Rs 18,834
+------------------------------------------------------------------------------
+Contract K031 | Customer C01 | Power Supply 31
+  Command date        : 2026-05-26
+  New term            : 2026-08-30 to 2027-08-29   Coverage: PREMIUM
+  Base value          : 49,000.00
+  Escalated value     : 51,313.50
+  Early renewal disc. : 8%
+  Multi-equipment disc: 3%
+  Value after disc.   : 45,792.17
+  Amount before GST   : 45,792.17
+  GST 18%             : 8,242.59
+  FINAL PAYABLE       : Rs 54,035
+------------------------------------------------------------------------------
+Contract K041 | Customer C01 | Soldering Station 41
+  Command date        : 2026-05-31
+  New term            : 2026-09-19 to 2027-09-18   Coverage: PREMIUM
+  Base value          : 31,500.00
+  Escalated value     : 34,336.05
+  Early renewal disc. : 8%
+  Multi-equipment disc: 3%
+  Value after disc.   : 30,641.49
+  Amount before GST   : 30,641.49
+  GST 18%             : 5,515.47
+  FINAL PAYABLE       : Rs 36,157
+------------------------------------------------------------------------------
+Contract K012 | Customer C02 | Soldering Station 12
+  Command date        : 2026-06-05
+  New term            : 2026-08-05 to 2027-08-04   Coverage: PREMIUM
+  Base value          : 118,125.00  (incl. 25% age surcharge)
+  Escalated value     : 118,125.00
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 108,675.00
+  Amount before GST   : 108,675.00
+  GST 18%             : 19,561.50
+  FINAL PAYABLE       : Rs 128,237
+------------------------------------------------------------------------------
+Contract K023 | Customer C03 | Multimeter 23
+  Command date        : 2026-06-12
+  New term            : 2026-06-12 to 2027-06-11   Coverage: PREMIUM
+  Base value          : 87,500.00
+  Escalated value     : 93,150.75
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 93,150.75
+  Lapse charge        : 3,726.03  (2 month(s) x 2%, capped 20%)
+  Inspection fee      : 0.00
+  Amount before GST   : 96,876.78
+  GST 18%             : 17,437.82
+  FINAL PAYABLE       : Rs 114,315
+------------------------------------------------------------------------------
+Contract K015 | Customer C05 | Logic Analyser 15
+  Command date        : 2026-06-17
+  New term            : 2026-08-21 to 2027-08-20   Coverage: BASIC
+  Base value          : 22,500.00
+  Escalated value     : 25,395.30
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 23,363.68
+  Amount before GST   : 23,363.68
+  GST 18%             : 4,205.46
+  FINAL PAYABLE       : Rs 27,569
+------------------------------------------------------------------------------
+Contract K016 | Customer C06 | Logic Analyser 16
+  Command date        : 2026-06-27
+  New term            : 2026-09-17 to 2027-09-16   Coverage: BASIC
+  Base value          : 39,000.00
+  Escalated value     : 43,643.25
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 40,151.79
+  Amount before GST   : 40,151.79
+  GST 18%             : 7,227.32
+  FINAL PAYABLE       : Rs 47,379
+------------------------------------------------------------------------------
+Contract K013 | Customer C03 | Oscilloscope 13
+  Command date        : 2026-07-02
+  New term            : 2026-09-28 to 2027-09-27   Coverage: COMPREHENSIVE
+  Base value          : 52,500.00
+  Escalated value     : 59,359.65
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 54,610.88
+  Amount before GST   : 54,610.88
+  GST 18%             : 9,829.96
+  FINAL PAYABLE       : Rs 64,441
+------------------------------------------------------------------------------
+Contract K039 | Customer C09 | Spectrum Analyser 39
+  Command date        : 2026-07-03
+  New term            : 2026-09-18 to 2027-09-17   Coverage: BASIC
+  Base value          : 10,500.00
+  Escalated value     : 11,726.40
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 10,788.29
+  Amount before GST   : 10,788.29
+  GST 18%             : 1,941.89
+  FINAL PAYABLE       : Rs 12,730
+------------------------------------------------------------------------------
+Contract K003 | Customer C03 | Function Generator 3
+  Command date        : 2026-07-04
+  New term            : 2026-08-21 to 2027-08-20   Coverage: COMPREHENSIVE
+  Base value          : 43,750.00  (incl. 25% age surcharge)
+  Escalated value     : 43,750.00
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 41,562.50
+  Amount before GST   : 41,562.50
+  GST 18%             : 7,481.25
+  FINAL PAYABLE       : Rs 49,044
+------------------------------------------------------------------------------
+Contract K019 | Customer C09 | Environmental Chamber 19
+  Command date        : 2026-07-06
+  New term            : 2026-07-06 to 2027-07-05   Coverage: COMPREHENSIVE
+  Base value          : 77,500.00
+  Escalated value     : 79,452.45
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 79,452.45
+  Lapse charge        : 1,589.05  (1 month(s) x 2%, capped 20%)
+  Inspection fee      : 0.00
+  Amount before GST   : 81,041.50
+  GST 18%             : 14,587.47
+  FINAL PAYABLE       : Rs 95,629
+------------------------------------------------------------------------------
+Contract K022 | Customer C02 | Signal Generator 22
+  Command date        : 2026-08-02
+  New term            : 2026-11-07 to 2027-11-06   Coverage: PREMIUM
+  Base value          : 35,000.00
+  Escalated value     : 39,546.15
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 36,382.46
+  Amount before GST   : 36,382.46
+  GST 18%             : 6,548.84
+  FINAL PAYABLE       : Rs 42,931
+------------------------------------------------------------------------------
+Contract K053 | Customer C03 | Function Generator 53
+  Command date        : 2026-08-06
+  New term            : 2026-10-15 to 2027-10-14   Coverage: COMPREHENSIVE
+  Base value          : 60,000.00
+  Escalated value     : 61,884.90
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 56,934.11
+  Amount before GST   : 56,934.11
+  GST 18%             : 10,248.14
+  FINAL PAYABLE       : Rs 67,182
+------------------------------------------------------------------------------
+Contract K045 | Customer C05 | Power Supply 45
+  Command date        : 2026-08-12
+  New term            : 2026-10-16 to 2027-10-15   Coverage: PREMIUM
+  Base value          : 56,000.00
+  Escalated value     : 57,509.55
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 52,908.79
+  Amount before GST   : 52,908.79
+  GST 18%             : 9,523.58
+  FINAL PAYABLE       : Rs 62,432
+------------------------------------------------------------------------------
+Contract K033 | Customer C03 | Signal Generator 33
+  Command date        : 2026-08-13
+  New term            : 2026-08-15 to 2027-08-14   Coverage: BASIC
+  Base value          : 43,500.00
+  Escalated value     : 44,796.15
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 44,796.15
+  Amount before GST   : 44,796.15
+  GST 18%             : 8,063.31
+  FINAL PAYABLE       : Rs 52,859
+------------------------------------------------------------------------------
+Contract K005 | Customer C05 | Soldering Station 5
+  Command date        : 2026-08-21
+  New term            : 2026-10-01 to 2027-09-30   Coverage: BASIC
+  Base value          : 33,000.00
+  Escalated value     : 79,877.70
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 75,883.82
+  Amount before GST   : 75,883.82
+  GST 18%             : 13,659.09
+  FINAL PAYABLE       : Rs 89,543
+------------------------------------------------------------------------------
+Contract K044 | Customer C04 | Spectrum Analyser 44
+  Command date        : 2026-08-21
+  New term            : 2026-08-23 to 2027-08-22   Coverage: COMPREHENSIVE
+  Base value          : 55,000.00
+  Escalated value     : 61,919.55
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 61,919.55
+  Amount before GST   : 61,919.55
+  GST 18%             : 11,145.52
+  FINAL PAYABLE       : Rs 73,065
+------------------------------------------------------------------------------
+Contract K028 | Customer C08 | Network Analyser 28
+  Command date        : 2026-08-31
+  New term            : 2026-10-23 to 2027-10-22   Coverage: PREMIUM
+  Base value          : 87,500.00
+  Escalated value     : 91,574.70
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 86,995.96
+  Amount before GST   : 86,995.96
+  GST 18%             : 15,659.27
+  FINAL PAYABLE       : Rs 102,655
+------------------------------------------------------------------------------
+Contract K049 | Customer C09 | Environmental Chamber 49
+  Command date        : 2026-09-14
+  New term            : 2026-10-11 to 2027-10-10   Coverage: BASIC
+  Base value          : 45,000.00
+  Escalated value     : 47,247.90
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 47,247.90
+  Amount before GST   : 47,247.90
+  GST 18%             : 8,504.62
+  FINAL PAYABLE       : Rs 55,753
+------------------------------------------------------------------------------
+Contract K036 | Customer C06 | Function Generator 36
+  Command date        : 2026-09-17
+  New term            : 2026-10-12 to 2027-10-11   Coverage: PREMIUM
+  Base value          : 65,625.00  (incl. 25% age surcharge)
+  Escalated value     : 65,625.00
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 65,625.00
+  Amount before GST   : 65,625.00
+  GST 18%             : 11,812.50
+  FINAL PAYABLE       : Rs 77,438
+------------------------------------------------------------------------------
+Contract K042 | Customer C02 | Logic Analyser 42
+  Command date        : 2026-09-20
+  New term            : 2026-10-17 to 2027-10-16   Coverage: PREMIUM
+  Base value          : 100,625.00  (incl. 25% age surcharge)
+  Escalated value     : 100,625.00
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 100,625.00
+  Amount before GST   : 100,625.00
+  GST 18%             : 18,112.50
+  FINAL PAYABLE       : Rs 118,738
+------------------------------------------------------------------------------
+Contract K004 | Customer C04 | Spectrum Analyser 4
+  Command date        : 2026-09-23
+  New term            : 2026-12-10 to 2027-12-09   Coverage: BASIC
+  Base value          : 19,500.00
+  Escalated value     : 21,441.00
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 19,725.72
+  Amount before GST   : 19,725.72
+  GST 18%             : 3,550.63
+  FINAL PAYABLE       : Rs 23,276
+------------------------------------------------------------------------------
+Contract K040 | Customer C10 | Environmental Chamber 40
+  Command date        : 2026-09-30
+  New term            : 2026-09-30 to 2027-09-29   Coverage: PREMIUM
+  Base value          : 14,000.00
+  Escalated value     : 14,453.25
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 14,453.25
+  Lapse charge        : 1,445.32  (5 month(s) x 2%, capped 20%)
+  Inspection fee      : 0.00
+  Amount before GST   : 15,898.58
+  GST 18%             : 2,861.74
+  FINAL PAYABLE       : Rs 18,760
+------------------------------------------------------------------------------
+Contract K047 | Customer C07 | Signal Generator 47
+  Command date        : 2026-10-04
+  New term            : 2026-10-06 to 2027-10-05   Coverage: COMPREHENSIVE
+  Base value          : 17,500.00
+  Escalated value     : 19,059.60
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 19,059.60
+  Amount before GST   : 19,059.60
+  GST 18%             : 3,430.73
+  FINAL PAYABLE       : Rs 22,490
+------------------------------------------------------------------------------
+Contract K054 | Customer C04 | Function Generator 54
+  Command date        : 2026-10-20
+  New term            : 2026-10-26 to 2027-10-25   Coverage: COMPREHENSIVE
+  Base value          : 9,375.00  (incl. 25% age surcharge)
+  Escalated value     : 9,375.00
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 9,375.00
+  Amount before GST   : 9,375.00
+  GST 18%             : 1,687.50
+  FINAL PAYABLE       : Rs 11,063
+------------------------------------------------------------------------------
+Contract K058 | Customer C08 | Spectrum Analyser 58
+  Command date        : 2026-10-21
+  New term            : 2026-12-09 to 2027-12-08   Coverage: COMPREHENSIVE
+  Base value          : 77,500.00
+  Escalated value     : 81,322.50
+  Early renewal disc. : 5%
+  Multi-equipment disc: 0%
+  Value after disc.   : 77,256.38
+  Amount before GST   : 77,256.38
+  GST 18%             : 13,906.15
+  FINAL PAYABLE       : Rs 91,163
+------------------------------------------------------------------------------
+Contract K025 | Customer C05 | Power Supply 25
+  Command date        : 2026-10-28
+  New term            : 2026-10-29 to 2027-10-28   Coverage: BASIC
+  Base value          : 18,000.00
+  Escalated value     : 18,811.80
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 18,811.80
+  Amount before GST   : 18,811.80
+  GST 18%             : 3,386.12
+  FINAL PAYABLE       : Rs 22,198
+------------------------------------------------------------------------------
+Contract K024 | Customer C04 | Spectrum Analyser 24
+  Command date        : 2026-10-29
+  New term            : 2026-10-29 to 2027-10-28   Coverage: PREMIUM
+  Base value          : 56,000.00
+  Escalated value     : 58,639.35
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 58,639.35
+  Lapse charge        : 3,518.36  (3 month(s) x 2%, capped 20%)
+  Inspection fee      : 0.00
+  Amount before GST   : 62,157.71
+  GST 18%             : 11,188.39
+  FINAL PAYABLE       : Rs 73,346
+------------------------------------------------------------------------------
+Contract K008 | Customer C08 | Network Analyser 8
+  Command date        : 2026-11-13
+  New term            : 2026-12-02 to 2027-12-01   Coverage: BASIC
+  Base value          : 18,000.00
+  Escalated value     : 19,155.15
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 19,155.15
+  Amount before GST   : 19,155.15
+  GST 18%             : 3,447.93
+  FINAL PAYABLE       : Rs 22,603
+------------------------------------------------------------------------------
+Contract K052 | Customer C02 | Function Generator 52
+  Command date        : 2026-12-22
+  New term            : 2027-03-08 to 2028-03-07   Coverage: COMPREHENSIVE
+  Base value          : 6,250.00  (incl. 25% age surcharge)
+  Escalated value     : 6,562.50
+  Early renewal disc. : 8%
+  Multi-equipment disc: 0%
+  Value after disc.   : 6,037.50
+  Amount before GST   : 6,037.50
+  GST 18%             : 1,086.75
+  FINAL PAYABLE       : Rs 7,124
+------------------------------------------------------------------------------
+Contract K026 | Customer C06 | Oscilloscope 26
+  Command date        : 2027-01-16
+  New term            : 2027-01-31 to 2028-01-30   Coverage: PREMIUM
+  Base value          : 84,000.00
+  Escalated value     : 90,518.56
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 90,518.56
+  Amount before GST   : 90,518.56
+  GST 18%             : 16,293.34
+  FINAL PAYABLE       : Rs 106,812
+------------------------------------------------------------------------------
+Contract K056 | Customer C06 | Power Supply 56
+  Command date        : 2027-01-27
+  New term            : 2027-01-27 to 2028-01-26   Coverage: PREMIUM
+  Base value          : 56,875.00  (incl. 25% age surcharge)
+  Escalated value     : 56,875.00
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 56,875.00
+  Lapse charge        : 6,825.00  (6 month(s) x 2%, capped 20%)
+  Inspection fee      : 0.00
+  Amount before GST   : 63,700.00
+  GST 18%             : 11,466.00
+  FINAL PAYABLE       : Rs 75,166
+------------------------------------------------------------------------------
+Contract K006 | Customer C06 | Oscilloscope 6
+  Command date        : 2027-04-13
+  New term            : 2027-04-23 to 2028-04-22   Coverage: PREMIUM
+  Base value          : 84,000.00
+  Escalated value     : 98,417.97
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 98,417.97
+  Amount before GST   : 98,417.97
+  GST 18%             : 17,715.23
+  FINAL PAYABLE       : Rs 116,133
+------------------------------------------------------------------------------
+Contract K059 | Customer C09 | Network Analyser 59
+  Command date        : 2027-04-28
+  New term            : 2027-04-28 to 2028-04-27   Coverage: BASIC
+  Base value          : 43,500.00
+  Escalated value     : 45,307.50
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 45,307.50
+  Lapse charge        : 7,249.20  (8 month(s) x 2%, capped 20%)
+  Inspection fee      : 2,000.00
+  Amount before GST   : 54,556.70
+  GST 18%             : 9,820.21
+  FINAL PAYABLE       : Rs 64,377
+------------------------------------------------------------------------------
+Contract K048 | Customer C08 | Function Generator 48
+  Command date        : 2027-05-14
+  New term            : 2027-06-03 to 2028-06-02   Coverage: PREMIUM
+  Base value          : 100,625.00  (incl. 25% age surcharge)
+  Escalated value     : 105,656.25
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 105,656.25
+  Amount before GST   : 105,656.25
+  GST 18%             : 19,018.12
+  FINAL PAYABLE       : Rs 124,674
+------------------------------------------------------------------------------
+Contract K033 | Customer C03 | Signal Generator 33
+  Command date        : 2027-07-29
+  New term            : 2027-08-15 to 2028-08-14   Coverage: BASIC
+  Base value          : 43,500.00
+  Escalated value     : 47,035.96
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 47,035.96
+  Amount before GST   : 47,035.96
+  GST 18%             : 8,466.47
+  FINAL PAYABLE       : Rs 55,502
+------------------------------------------------------------------------------
+Contract K013 | Customer C03 | Oscilloscope 13
+  Command date        : 2027-09-08
+  New term            : 2027-09-28 to 2028-09-27   Coverage: COMPREHENSIVE
+  Base value          : 52,500.00
+  Escalated value     : 62,327.63
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 62,327.63
+  Amount before GST   : 62,327.63
+  GST 18%             : 11,218.97
+  FINAL PAYABLE       : Rs 73,547
+------------------------------------------------------------------------------
+Contract K025 | Customer C05 | Power Supply 25
+  Command date        : 2027-10-14
+  New term            : 2027-10-29 to 2028-10-28   Coverage: BASIC
+  Base value          : 18,000.00
+  Escalated value     : 19,752.39
+  Early renewal disc. : 0%
+  Multi-equipment disc: 0%
+  Value after disc.   : 19,752.39
+  Amount before GST   : 19,752.39
+  GST 18%             : 3,555.43
+  FINAL PAYABLE       : Rs 23,308
+------------------------------------------------------------------------------
+
+==============================================================================
+UPGRADE CHARGES
+==============================================================================
+Contract K055 | Customer C05 | BASIC -> PREMIUM on 2025-04-13
+  Base difference     : 22,000.00 x 283/365 days
+  Amount before GST   : 17,057.53
+  FINAL PAYABLE       : Rs 20,128
+------------------------------------------------------------------------------
+Contract K035 | Customer C05 | BASIC -> COMPREHENSIVE on 2025-06-27
+  Base difference     : 7,000.00 x 189/365 days
+  Amount before GST   : 3,624.66
+  FINAL PAYABLE       : Rs 4,277
+------------------------------------------------------------------------------
+Contract K027 | Customer C07 | BASIC -> PREMIUM on 2025-08-28
+  Base difference     : 51,750.00 x 268/365 days
+  Amount before GST   : 37,997.26
+  FINAL PAYABLE       : Rs 44,837
+------------------------------------------------------------------------------
+Contract K014 | Customer C04 | BASIC -> PREMIUM on 2026-05-16
+  Base difference     : 66,125.00 x 1/365 days
+  Amount before GST   : 181.16
+  FINAL PAYABLE       : Rs 214
+------------------------------------------------------------------------------
+
+==============================================================================
+REJECTED COMMANDS
+==============================================================================
+  #15  RENEW     K999     2026-06-15  unknown contract
+  #22  UPGRADE   K001     2026-06-15  UPGRADE dated outside the current term
+
+===========================================================================================
+CONTRACT STATUS REGISTER (as of 2027-10-14)
+===========================================================================================
+Contract  Customer  Equipment   Coverage       Start       End           Last value  Status
+-------------------------------------------------------------------------------------------
+K001      C01       E001        PREMIUM        2026-07-01  2027-06-30       106,348  LAPSED
+K002      C02       E002        PREMIUM        2026-04-27  2027-04-26        11,889  LAPSED
+K003      C03       E003        COMPREHENSIVE  2026-08-21  2027-08-20        43,750  LAPSED
+K004      C04       E004        BASIC          2026-12-10  2027-12-09        21,441  ACTIVE
+K005      C05       E005        BASIC          2026-10-01  2027-09-30        79,878  LAPSED
+K006      C06       E006        PREMIUM        2027-04-23  2028-04-22        98,418  ACTIVE
+K007      C07       E007        COMPREHENSIVE  2026-07-25  2027-07-24        69,264  LAPSED
+K008      C08       E008        BASIC          2026-12-02  2027-12-01        19,155  ACTIVE
+K009      C09       E009        BASIC          2026-05-07  2027-05-06        16,211  LAPSED
+K010      C10       E010        PREMIUM        2026-07-24  2027-07-23       109,602  LAPSED
+K011      C01       E011        BASIC          2026-07-21  2027-07-20        26,422  LAPSED
+K012      C02       E012        PREMIUM        2026-08-05  2027-08-04       118,125  LAPSED
+K013      C03       E013        COMPREHENSIVE  2027-09-28  2028-09-27        62,328  ACTIVE
+K014      C04       E014        PREMIUM        2025-05-17  2026-05-16        34,756  LAPSED
+K015      C05       E015        BASIC          2026-08-21  2027-08-20        25,395  LAPSED
+K016      C06       E016        BASIC          2026-09-17  2027-09-16        43,643  LAPSED
+K017      C07       E017        PREMIUM        2026-04-12  2027-04-11        66,886  LAPSED
+K018      C08       E018        PREMIUM        2026-01-01  2026-12-31       140,000  LAPSED
+K019      C09       E019        COMPREHENSIVE  2026-07-06  2027-07-05        79,452  LAPSED
+K020      C10       E020        BASIC          2026-02-13  2027-02-12        53,412  LAPSED
+K021      C01       E021        BASIC          2026-08-10  2027-08-09        10,150  LAPSED
+K022      C02       E022        PREMIUM        2026-11-07  2027-11-06        39,546  ACTIVE
+K023      C03       E023        PREMIUM        2026-06-12  2027-06-11        93,151  LAPSED
+K024      C04       E024        PREMIUM        2026-10-29  2027-10-28        58,639  ACTIVE
+K025      C05       E025        BASIC          2027-10-29  2028-10-28        19,752  ACTIVE
+K026      C06       E026        PREMIUM        2027-01-31  2028-01-30        90,519  ACTIVE
+K027      C07       E027        PREMIUM        2025-05-23  2026-05-22        27,632  LAPSED
+K028      C08       E028        PREMIUM        2026-10-23  2027-10-22        91,575  ACTIVE
+K029      C09       E029        BASIC          2026-02-19  2027-02-18        12,819  LAPSED
+K030      C10       E030        PREMIUM        2026-01-28  2027-01-27        70,000  LAPSED
+K031      C01       E031        PREMIUM        2026-08-30  2027-08-29        51,314  LAPSED
+K032      C02       E032        COMPREHENSIVE  2026-03-13  2027-03-12        49,386  LAPSED
+K033      C03       E033        BASIC          2027-08-15  2028-08-14        47,036  ACTIVE
+K034      C04       E034        BASIC          2026-03-27  2027-03-26       116,593  LAPSED
+K035      C05       E035        COMPREHENSIVE  2025-01-02  2026-01-01        10,491  LAPSED
+K036      C06       E036        PREMIUM        2026-10-12  2027-10-11        65,625  LAPSED
+K037      C07       E037        BASIC          2026-01-30  2027-01-29        18,207  LAPSED
+K038      C08       E038        BASIC          2026-01-26  2027-01-25        19,324  LAPSED
+K039      C09       E039        BASIC          2026-09-18  2027-09-17        11,726  LAPSED
+K040      C10       E040        PREMIUM        2026-09-30  2027-09-29        14,453  LAPSED
+K041      C01       E041        PREMIUM        2026-09-19  2027-09-18        34,336  LAPSED
+K042      C02       E042        PREMIUM        2026-10-17  2027-10-16       100,625  ACTIVE
+K043      C03       E043        PREMIUM        2026-06-10  2027-06-09        84,459  LAPSED
+K044      C04       E044        COMPREHENSIVE  2026-08-23  2027-08-22        61,920  LAPSED
+K045      C05       E045        PREMIUM        2026-10-16  2027-10-15        57,510  ACTIVE
+K046      C06       E046        BASIC          2026-06-28  2027-06-27        16,801  LAPSED
+K047      C07       E047        COMPREHENSIVE  2026-10-06  2027-10-05        19,060  LAPSED
+K048      C08       E048        PREMIUM        2027-06-03  2028-06-02       105,656  ACTIVE
+K049      C09       E049        BASIC          2026-10-11  2027-10-10        47,248  LAPSED
+K050      C10       E050        PREMIUM        2026-04-15  2027-04-14       105,000  LAPSED
+K051      C01       E051        BASIC          2026-02-17  2027-02-16        16,011  LAPSED
+K052      C02       E052        COMPREHENSIVE  2027-03-08  2028-03-07         6,562  ACTIVE
+K053      C03       E053        COMPREHENSIVE  2026-10-15  2027-10-14        61,885  ACTIVE
+K054      C04       E054        COMPREHENSIVE  2026-10-26  2027-10-25         9,375  ACTIVE
+K055      C05       E055        PREMIUM        2025-01-21  2026-01-20        16,386  LAPSED
+K056      C06       E056        PREMIUM        2027-01-27  2028-01-26        56,875  ACTIVE
+K057      C07       E057        BASIC          2026-04-01  2027-03-31        44,430  LAPSED
+K058      C08       E058        COMPREHENSIVE  2026-12-09  2027-12-08        81,322  ACTIVE
+K059      C09       E059        BASIC          2027-04-28  2028-04-27        45,308  ACTIVE
+K060      C10       E060        BASIC          2026-04-27  2027-04-26        46,466  LAPSED
+
+============================================================
+RENEWAL REMINDERS (as of 2027-10-14)
+============================================================
+  K053     ends 2027-10-14 ( 0 days)  30-day reminder
+  K045     ends 2027-10-15 ( 1 days)  30-day reminder
+  K042     ends 2027-10-16 ( 2 days)  30-day reminder
+  K028     ends 2027-10-22 ( 8 days)  30-day reminder
+  K054     ends 2027-10-25 (11 days)  30-day reminder
+  K024     ends 2027-10-28 (14 days)  30-day reminder
+  K022     ends 2027-11-06 (23 days)  30-day reminder
+  K008     ends 2027-12-01 (48 days)  60-day reminder
+  K058     ends 2027-12-08 (55 days)  60-day reminder
+  K004     ends 2027-12-09 (56 days)  60-day reminder
